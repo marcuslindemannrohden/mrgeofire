@@ -1,8 +1,9 @@
 name: mrgeofire
-description: A new Flutter plugin.
+description: A flutter plugin to use the Geofire native apps.
 version: 0.0.1
-author:
-homepage:
+author: Marcus L. Rohden
+homepage: https://github.com/marcuslindemannrohden/mrgeofire
+repository: https://github.com/marcuslindemannrohden/mrgeofire
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
